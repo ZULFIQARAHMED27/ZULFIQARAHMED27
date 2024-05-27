@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZULFIQARAHMED27
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
-- 🌱 I’m currently learning ...JS,PYTHON,REACT
+- 🌱 I’m currently learning ...PYTHON
 - 💞️ I’m looking to collaborate on ...AI AND ML PROJECTS
 - 📫 How to reach me ...@zulfiqar._.syed - instagram
 
