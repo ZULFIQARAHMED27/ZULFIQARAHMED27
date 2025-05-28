@@ -14,7 +14,6 @@ I'm **Zulfiqar Ahmed**, a passionate Data Scientist with a specialization in Art
 ## 📫 How to Reach Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zulfiqarsyed27)  
 - 📧 Email: syedzulfiqarahmed27@gmail.com  
-- 📷 [Instagram](https://www.instagram.com/zulfiqar._.syed)  
 
 ---
 
