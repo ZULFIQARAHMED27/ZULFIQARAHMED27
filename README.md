@@ -5,8 +5,8 @@ I'm **Zulfiqar Ahmed**, a passionate Data Scientist/ AI Engineer with a speciali
 ---
 
 ## 🔍 About Me  
-- 🌱 Currently learning: Advanced Generative AI and LLMs  
-- 💼 Open to collaborating on: AI/ML projects in Computer Vision, NLP, and Generative AI  
+- 🌱 Currently learning: Advanced Generative AI and Agentic AI  
+- 💼 Open to collaborating on: AI/ML projects in Computer Vision, NLP, LLMs and Generative AI  
 - 🧠 Tech stack: Python, TensorFlow, PyTorch, NumPy, Pandas, Scikit-learn, SQL, and more  
 
 ---
