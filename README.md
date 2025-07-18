@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Zulfiqar Ahmed**, a passionate Data Scientist with a specialization in Artificial Intelligence and Machine Learning. I love exploring Generative AI, LLMs, and leveraging cutting-edge technologies to create impactful solutions.  
+I'm **Zulfiqar Ahmed**, a passionate Data Scientist/ AI Engineer with a specialization degree in Artificial Intelligence and Machine Learning. I love exploring Generative AI, LLMs, and leveraging cutting-edge technologies to create impactful solutions.  
 
 ---
 
